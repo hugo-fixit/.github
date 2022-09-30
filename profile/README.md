@@ -9,8 +9,8 @@ Head to this [documentation page](https://fixit.lruihao.cn/theme-documentation-b
 Or run [Documentation Site](https://fixit.lruihao.cn) locally:
 
 ```bash
-git clone --recursive https://github.com/hugo-fixit/FixIt.git FixIt
-cd FixIt
+git clone --recursive https://github.com/hugo-fixit/FixIt.git && cd FixIt
+
 hugo server --source=docs
 ```
 
@@ -18,4 +18,4 @@ In addition, there is the [FixIt wiki](https://github.com/hugo-fixit/FixIt/wiki)
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=hugo-fixit/FixIt,hugo-fixit/docs&type=Date)](https://star-history.com/#hugo-fixit/FixIt&hugo-fixit/docs&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=hugo-fixit/FixIt&type=Date)](https://star-history.com/#hugo-fixit/FixIt&Date)
