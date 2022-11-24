@@ -18,4 +18,4 @@ In addition, there is the [FixIt wiki](https://github.com/hugo-fixit/FixIt/wiki)
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=hugo-fixit/FixIt&type=Date)](https://star-history.com/#hugo-fixit/FixIt&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=hugo-fixit/FixIt,hugo-fixit/docs,hugo-fixit/hugo-fixit-blog-git&type=Date)](https://star-history.com/#hugo-fixit/FixIt&hugo-fixit/docs&hugo-fixit/hugo-fixit-blog-git&Date)
