@@ -1,8 +1,6 @@
 # Hugo FixIt
 
-FixIt is a clean, elegant but advanced blog theme for Hugo.
-
-## [Getting started](https://fixit.lruihao.cn/categories/documentation/)
+> [FixIt](https://github.com/hugo-fixit/FixIt) is a **clean**, **elegant** but **advanced** blog theme for [Hugo](https://gohugo.io/).
 
 ## Star History
 
