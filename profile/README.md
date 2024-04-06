@@ -1,10 +1,10 @@
 # Hugo FixIt
 
-> [FixIt](https://github.com/hugo-fixit/FixIt) is a **clean**, **elegant** but **advanced** blog theme for [Hugo](https://gohugo.io/).
+Hugo FixIt was created by Lruihao. With the [FixIt](https://github.com/hugo-fixit/FixIt) theme as the core, it has developed a series of Hugo theme components to enrich your blog website.
 
 ## Join us
 
-Welcome to join FixIt Theme development and maintenance, contact us via `fixit@lruihao.cn`.
+Welcome to join Hugo FixIt development and maintenance, contact us via `fixit@lruihao.cn`.
 
 ## Help wanted
 
