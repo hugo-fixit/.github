@@ -1,6 +1,8 @@
 # Hugo FixIt
 
-Hugo FixIt was created by [Lruihao](https://github.com/Lruihao). With the [FixIt](https://github.com/hugo-fixit/FixIt) theme as the core, it has developed a series of Hugo theme components to enrich your blog website.
+"Hugo FixIt" is the organization behind popular Hugo theme [FixIt](https://github.com/hugo-fixit/FixIt) and a series of theme components.
+
+_Created by [Lruihao](https://github.com/Lruihao)_
 
 ## Join us
 
