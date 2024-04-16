@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://fixit.lruihao.cn/documentation/getting-started/quick-start/">
-    <img src="https://avatars.githubusercontent.com/u/110414864?s=140&v=4" alt="Hugo FixIt logo">
+    <img src="https://avatars.githubusercontent.com/u/110414864?s=200&v=4" alt="Hugo FixIt logo" width="140" />
   </a>
 </p>
 
