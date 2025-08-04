@@ -19,7 +19,7 @@ Welcome to join Hugo FixIt development and maintenance, contact us via `fixit@lr
 
 - [FixIt](https://github.com/hugo-fixit/FixIt): 🔧 A clean, elegant but advanced blog theme for Hugo
 - [docs](https://github.com/hugo-fixit/docs): 📄 The open-source repo for fixit.lruihao.cn
-- [and more](https://github.com/orgs/hugo-fixit/repositories)
+- [Roadmap](https://github.com/orgs/hugo-fixit/projects/2) and [more](https://github.com/orgs/hugo-fixit/repositories)...
 
 ## 💬 Community
 
