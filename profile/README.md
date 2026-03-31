@@ -30,12 +30,14 @@ All feedback is welcome! Head over to the [discussions][discussions], [Pull requ
 | [Discussions][discussions]  | GitHub discussion forum         |
 | [FixIt WeChat group][wx-mp] | Follow and reply "FixIt" to get |
 | [FixIt QQ group][qq-group]  | QQ group: `814031017`           |
+| [FixIt Dev group][dev-group]| QQ group: `770835493`           |
 
 [discussions]: https://github.com/orgs/hugo-fixit/discussions
 [pulls]: https://github.com/hugo-fixit/FixIt/pulls
 [issues]: https://github.com/hugo-fixit/FixIt/issues
-[qq-group]: https://qm.qq.com/cgi-bin/qm/qr?k=awbwdTtSQ_-H5QGzeJxdWgv6JMbNehNM&jump_from=webapi
 [wx-mp]: https://lruihao.cn/images/qr-wx-mp.webp
+[qq-group]: https://qm.qq.com/q/Mn1I7ljqsS
+[dev-group]: https://qm.qq.com/q/ky3uru0mbu
 
 ## 🌟 Star History
 
