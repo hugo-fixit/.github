@@ -23,7 +23,7 @@ Welcome to join Hugo FixIt development and maintenance, contact us via `fixit@lr
 
 ## 💬 Community
 
-All feedback is welcome! Head over to the [discussions][discussions], [Pull requests][pulls] and [issues][issues] tracker.
+All feedback is welcome! Head over to the [discussions][discussions], [pull requests][pulls] and [issues][issues] tracker.
 
 | Official Community          | Description                     |
 | :-------------------------- | :------------------------------ |
