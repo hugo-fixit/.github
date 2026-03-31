@@ -15,7 +15,7 @@
 
 ## 🫶 Contributing
 
-Welcome to join Hugo FixIt development and maintenance, contact us via `fixit@lruihao.cn`.
+Welcome to join Hugo FixIt development and maintenance, contact us via `fixit@lruihao.cn` or [dev group][dev-group].
 
 - [FixIt](https://github.com/hugo-fixit/FixIt): 🔧 A clean, elegant but advanced blog theme for Hugo
 - [docs](https://github.com/hugo-fixit/docs): 📄 The open-source repo for fixit.lruihao.cn
