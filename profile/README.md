@@ -41,10 +41,4 @@ All feedback is welcome! Head over to the [discussions][discussions], [pull requ
 
 ## 🌟 Star History
 
-<a href="https://star-history.com/#hugo-fixit/FixIt&hugo-fixit/docs&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=hugo-fixit/FixIt&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=hugo-fixit/FixIt&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=hugo-fixit/FixIt&type=Date" />
- </picture>
-</a>
+[FixIt Star History](https://star-history.com/#hugo-fixit/FixIt&Date)
